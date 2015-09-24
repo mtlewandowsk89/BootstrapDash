@@ -1,0 +1,22 @@
+{
+  "name": "CSS",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Lewandowski <mtlewandowsk@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.3.0",
+    "highcharts-release": "~4.1.7"
+  }
+}
+
